@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://Filan:fisteku@wethedevelopers-kltwk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
