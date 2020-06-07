@@ -2,7 +2,7 @@ const express = require('express');
 const connectDB = require('./config/db');
 
 const app = express();
-//Connect Databasee
+//Connect DatabasE
 connectDB();
 
 // Init Middleware
